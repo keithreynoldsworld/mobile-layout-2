@@ -89,6 +89,30 @@ header{
 
 }
 
+li{
+	display: inline-block;
+	padding-left:50px;
+	padding-bottom:25px;
+}
+
 footer{
-	
+	background:black;
+	padding-left: 50px;
+	padding-right:50px;
+	padding-top:25px;
+	padding-bottom:20px;
+	color:white;
+	text-align: center;
+}
+
+.smallandwhite{
+	width:100px;
+	height: 25px;
+	margin-left: auto;
+	margin-right: auto;
+	background:white;
+}
+.trans{
+	height:25px;
+	background: transparent;
 }
