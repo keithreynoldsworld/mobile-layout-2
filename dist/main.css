@@ -1,0 +1,94 @@
+header{
+	height: 50px;
+	background: blue;
+}
+
+.first{
+	
+	background:rgb(39,28,64);
+	text-align: center;
+	padding-top: 160px;
+	padding-bottom: 50px;
+}
+
+.divone{
+	color:white;
+    font-size:40px;
+    background:rgb(39,28,64);
+}
+
+.div2{
+	color: white;
+	font-size:25px;
+	background:rgb(39,28,64);
+	padding-top:18px;
+	padding-bottom: 20px;
+}
+
+.div3{
+	background:blue;
+	border:6px solid black;
+	width: 200px;
+	height:30px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+.littlewhite{
+	width: 40px;
+	background:white;
+	height:20px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 250px;
+	margin-bottom: 100px;
+}
+.muskateer{
+	height:50px;
+	width:300px;
+	background:white;
+	margin-top: 23px;
+	margin-bottom: 23px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+.lightblue{
+	height:190px;
+	background: rgb(226,236,243);
+}
+
+.gray {
+	background: rgb(199,201,206);
+	padding-top: 25px;
+	padding-bottom: 5px;
+}
+
+.whitey {
+	background:white;
+	height: 215px;
+	margin-bottom: 35px;
+	margin-left:10px;
+	margin-right:10px;
+}
+
+.LND{
+	background: rgb(226,236,243);  
+	
+	padding-top:130px;
+	padding-bottom:20px;
+}
+
+.smalldarkblue{
+	height: 50px;
+	width: 160px;
+	margin-left: auto;
+	margin-right: auto;
+    background: blue;
+
+}
+
+footer{
+	
+}
