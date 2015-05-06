@@ -1,10 +1,10 @@
 .blue{
 	height: 50px;
 	padding-left: 8px;
-	padding-top: 5px;
-	padding-bottom: 5px;
+	
+	
 	background: rgb(12,118,181);
-	display: inline-block;
+	overflow: hidden;
 
 }
 
@@ -40,16 +40,16 @@ header{
 
 .div3{
 	background:rgb(12,118,181);
-	border:6px solid black;
+	border:10px solid black;
 	width: 200px;
-	height:30px;
+	height:50px;
 	margin-left:auto;
 	margin-right:auto;
 
 }
 
 .littlewhite{
-	width: 40px;
+	width: 50px;
 	background:white;
 	height:20px;
 	margin-left: auto;
@@ -58,13 +58,14 @@ header{
 	margin-bottom: 100px;
 }
 .muskateer{
-	height:50px;
+	height:70px;
 	width:300px;
 	background:white;
 	margin-top: 23px;
 	margin-bottom: 23px;
 	margin-left:auto;
 	margin-right:auto;
+	overflow: hidden;
 
 }
 .lightblue{
@@ -147,7 +148,7 @@ footer{
 }
 
 .w1{
-	background: rgb(199,201,206);
+	background: rgb(187,200,207);
 	height:60px;
 	width:60px;
 	margin-left:auto;
@@ -156,15 +157,15 @@ footer{
 }
 
 .w2{
-	background: rgb(199,201,206);
+	background: rgb(187,200,207);
 	height:20px;
 	margin-bottom: 25px;
 	
 }
 
 .w3{
-	background: rgb(199,201,206);
-	height:50px;
+	background: rgb(187,200,207);
+	height:45px;
 
 }
 
@@ -173,14 +174,14 @@ footer{
 .corner {
 	width: 75px;
 	height: 60px;
-	background: blue;
-	display: inline-block;
+	background: rgb(0,90,149);
+	
 	float: right;
 }
 
 .headerwhite1{
 	background-color: white;
-	width: 40px;
+	width: 30px;
 	display: inline-block;
 	height:30px;
 	margin:10px;
@@ -188,7 +189,7 @@ footer{
 }
 
 .headerwhite2{
-	width:100px;
+	width:120px;
 	background:white;
 	display: inline-block;
 	height:30px;
@@ -199,4 +200,20 @@ footer{
 	height: 60px;
 	background: rgb(8,95,168);
 	display:inline-block;
+}
+.grayone{
+   height:60px;
+   width:50px;
+   float: left;
+   margin-top:10px;
+   background:gray;
+}
+
+.graytwo{
+  height:60px;
+  width:240px;
+  float: top;
+  float: right;
+  background:gray;
+  margin-right:2px;
 }
