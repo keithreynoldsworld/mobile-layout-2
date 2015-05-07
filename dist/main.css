@@ -13,12 +13,12 @@ header{
 	padding-left: 8px;
 	padding-top: 5px;
 	padding-bottom: 5px;
-	background: rgb(12,118,181);
+	background-image:  url("images/crowd.png");
 	
 }
 .first{
+	background:  url("images/crowd.jpg");
 	
-	background:rgb(39,48,63);
 	text-align: center;
 	padding-top: 160px;
 	padding-bottom: 50px;
@@ -27,51 +27,63 @@ header{
 .divone{
 	color:white;
     font-size:40px;
-    background:rgb(39,48,63);
+    background:transparent;
 }
 
 .div2{
 	color: white;
 	font-size:25px;
-	background:rgb(39,48,63);
+	background:transparent;
 	padding-top:18px;
 	padding-bottom: 20px;
 }
 
 .div3{
-	background:rgb(12,118,181);
-	border:10px solid black;
-	width: 200px;
+	background:rgba(0,0,0,.3);
+	
+	width: 220px;
 	
 	margin-left:auto;
 	margin-right:auto;
-	color:white;
-	font-size:20px;
+	
 	padding-top:15px;
 	padding-bottom:15px;
-
-
-
+}
+.diva{
+	width: 200px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	color:white;
+	font-size:20px;
+	background: rgb(0,68,133);
+	margin-left:10px;
 }
 
+
+
+
 .littlewhite{
+	transform: scaleY(-1);
 	width: 50px;
-	background:white;
+	background:transparent;
 	height:20px;
 	margin-left: auto;
 	margin-right: auto;
 	margin-top: 250px;
 	margin-bottom: 100px;
+	color:white;
+	font-size: 25px;
 }
 .muskateer{
 	height:70px;
-	width:300px;
-	background:white;
+	
+	background:transparent;
 	margin-top: 23px;
 	margin-bottom: 23px;
 	margin-left:auto;
 	margin-right:auto;
 	overflow: hidden;
+	display:inline-block;
 
 }
 .lightblue{
@@ -171,6 +183,8 @@ footer{
 	margin-left:auto;
 	margin-right: auto;
 	margin-bottom: 15px;
+	padding: 20px 10px 10px 20px;
+	border-radius: 50%;
 }
 
 .w2{
@@ -207,7 +221,7 @@ footer{
 	width: 30px;
 	display: inline-block;
 	height:30px;
-	margin:10px;
+	margin-right:10px;
 	
 }
 
@@ -233,8 +247,8 @@ footer{
    width:250px;
    margin-left:50px;
    margin-top:0px;
-   background:rgb(39,48,63);
-   
+   background:transparent;
+   display: inline-block;
    color:white;
    font-size:25px;
    text-align: left;
@@ -246,7 +260,7 @@ footer{
   width:240px;
   
   float: right;
-  background:gray;
+  background:transparent;
   margin-right:2px;
 }
 
